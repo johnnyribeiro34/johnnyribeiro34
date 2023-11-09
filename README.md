@@ -21,3 +21,12 @@ Tenho facilidade de aprendizagem , já tive contato com as linguagens: HTML 5, C
   <a href = "mailto:gemeos@devemdobro.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ricardohdias" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+
+##### linguagens
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnnyribeirobezerra&exclude_repo=Projeto-tik-tok-readme-stats,anuraghazra.github.io)
+
+##### Contatos
+#### watssap
+11 97821-6318
+##### Linkedin
+ https://www.linkedin.com/in/johnny-ribeiro-56465626b/
