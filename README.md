@@ -4,8 +4,7 @@
 Tenho facilidade de aprendizagem , já tive contato com as linguagens: HTML 5, CSS , Java Script , Java e Python.Já trabelhei com vendas de computadores e acessorios de informática  e também como técnico de informática.
 
  <div>
-   <a href="https://github.com/">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Johnny&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+ username=Johnny&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Johnny&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
     
