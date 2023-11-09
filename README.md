@@ -4,7 +4,7 @@
 Tenho facilidade de aprendizagem , já tive contato com as linguagens: HTML 5, CSS , Java Script , Java e Python.Já trabelhei com vendas de computadores e acessorios de informática  e também como técnico de informática.
 
 ##### detalhes 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnnyribeirobezerra&show_icons=true&theme=merko)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnnyribeiro34&show_icons=true&theme=merko)
 
 
     
